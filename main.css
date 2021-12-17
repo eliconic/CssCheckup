@@ -1,0 +1,39 @@
+body {
+    background-color: turquoise;
+}
+
+.class-1 {
+    color: rgb(255, 230, 0);
+}
+
+p {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+ul {
+    border: solid black;
+    border-style: double;
+}
+
+h3 {
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+
+#number1 {
+    font-size: larger;
+}
+
+#number2 {
+    font-style: italic;
+}
+
+#margin1 {
+    margin: 3px;
+}
+
+.margin2 {
+    border: 3.4px dotted orange;
+    padding: 1pt;
+}
